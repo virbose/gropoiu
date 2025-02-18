@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40">
+  <!-- Map grid background -->
+  <rect x="0" y="5" width="200" height="30" fill="none" stroke="#dee2e6" stroke-width="0.5"/>
+  <line x1="40" y1="5" x2="40" y2="35" stroke="#dee2e6" stroke-width="0.5"/>
+  <line x1="80" y1="5" x2="80" y2="35" stroke="#dee2e6" stroke-width="0.5"/>
+  <line x1="120" y1="5" x2="120" y2="35" stroke="#dee2e6" stroke-width="0.5"/>
+  <line x1="160" y1="5" x2="160" y2="35" stroke="#dee2e6" stroke-width="0.5"/>
+  
+  <!-- Text with map-like styling -->
+  <path d="M20 25 Q25 15 30 25 L30 30 L20 30 Z" fill="#007bff"/>
+  <path d="M40 30 L50 10 L60 30 M45 20 L55 20" fill="none" stroke="#007bff" stroke-width="3"/>
+  <circle cx="75" cy="20" r="10" fill="none" stroke="#007bff" stroke-width="3"/>
+  <path d="M90 30 L100 10 L110 30 M95 20 L105 20" fill="none" stroke="#007bff" stroke-width="3"/>
+  <path d="M120 15 Q130 10 130 20 Q130 30 120 25 Z" fill="#007bff"/>
+  <path d="M140 15 A10 10 0 1 0 140 35" fill="none" stroke="#007bff" stroke-width="3"/>
+  <path d="M160 10 L180 10 L180 35 L160 35 Z" fill="none" stroke="#007bff" stroke-width="3"/>
+</svg> 
